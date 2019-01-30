@@ -1,0 +1,9 @@
+-f https://download.pytorch.org/whl/nightly/cpu/torch_nightly.html
+torch_nightly
+fastai
+starlette
+uvicorn
+python-multipart
+aiofiles
+aiohttp
+cowpy==1.0.3
