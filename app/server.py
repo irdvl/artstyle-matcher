@@ -8,8 +8,8 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-learner_file_url = 'https://drive.google.com/uc?export=download&id=1l0mfhw0AYo7pfovvXmyCT-GrPxUEktrl'
-learner_file_name = 'export-large'
+learner_file_url = 'https://drive.google.com/uc?export=download&id=1UkN-sdCPX76a1H9enAoT1nvxuEw8Grrf'
+learner_file_name = 'export'
 classes = [
     'andys_eyes', 
     'tyswills',
